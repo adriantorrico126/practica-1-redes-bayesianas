@@ -1,0 +1,14 @@
+# Entornos y dependencias locales
+.pgmpy_default/
+.pgmpy_legacy/
+.task_packages/
+colab-mcp/
+teams-mcp/
+
+# Salidas de control de calidad locales
+qa_render/
+qa_class_notebook/
+qa_figures.png
+
+# Copia anterior del informe
+Informe_Practica_1_Redes_Bayesianas_Adrian_Torrico.docx

@@ -1,0 +1,11 @@
+﻿Variable,Categorías
+Age_Group,"Adult, Mature, Senior, Young"
+Tenure_Group,"Established, Low, Loyal, Medium"
+Amount_Group,"High, Low, Medium"
+Contract_Type,"Annual, Monthly, Two-Year"
+Payment_Method,"Bank Transfer, Credit Card, Electronic Check"
+Technical_Support,"No, Yes"
+Internet_Service,"DSL, Fiber, Unknown"
+Complaints_Group,"Few, Many, None"
+Satisfaction_Group,"High, Low, Medium"
+Churn,"No, Yes"
