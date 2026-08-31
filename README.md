@@ -18,6 +18,7 @@ En Colab, ejecuta las celdas en orden. El notebook instala `pgmpy==0.1.25` autom
 - `Practica_1_Redes_Bayesianas_Adrian_Torrico.ipynb`: notebook ejecutable en Google Colab.
 - `Informe_Practica_1_Redes_Bayesianas_Adrian_Torrico_Class_Notebook.docx`: informe para Class Notebook, sin resumen ejecutivo, conclusiones ni anexos.
 - `Patron_y_justificacion_Adrian_Torrico.docx`: documento individual con el patrón de abandono, su evidencia y el enlace a Colab.
+- `Documento_presentacion_patron_Adrian_Torrico.docx`: versión narrativa, en primera persona, para presentar el patrón y su aplicación.
 - `customers (2).csv`: datos de entrada.
 - `analisis_redes_bayesianas.py`: versión reproducible del análisis.
 - `resultados/`: gráficos y resultados generados.
